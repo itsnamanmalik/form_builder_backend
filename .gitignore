@@ -1,0 +1,10 @@
+.idea/
+*.sqlite3
+__pycache__
+/data/
+.env
+.env.local
+logs/
+media/
+.DS_Store
+.git_credentials
