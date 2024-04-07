@@ -1,4 +1,4 @@
-# Overengineered Form Builder
+# Over-Engineered Form Builder
 Welcome to Overengineered Form Builder, an excessively complex yet fascinating project aimed at developing a form builder application where users can create custom forms with various field types. Users can fill out these forms, and form administrators can access and analyze the form entries.
 
 ## Introduction
